@@ -1,1 +1,2 @@
 # DigitalMarketing
+This website gives us the information about how can we do the search engine optimization on our website to make the google ranking better. It also gives the information about digital and social media marketing. 
